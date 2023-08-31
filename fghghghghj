@@ -1,6 +1,7 @@
 local whitelisted = {
     "7B03A60E-F529-47E1-BB35-E59166AECD6A",
     "eb4b89bb-98b8-4608-b6b6-474b85991485",
+    "ABAFF198-B3CF-494F-A47E-3B101A0B8498",
 }
 
 function load()
